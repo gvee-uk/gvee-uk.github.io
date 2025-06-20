@@ -1,5 +1,10 @@
 
 remote_theme: pages-themes/hacker@v0.2.0
 
+title: Be excellent to eachother
+# description: [A short description of your site's purpose]
+
+show_downloads: false
+
 plugins:
 - jekyll-remote-theme
